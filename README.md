@@ -7,4 +7,4 @@
 
 
 
-<a href = 'https://twitter.com/choir241'>Twitter</a><a target = '_blank' href = 'https://www.linkedin.com/in/richard-choir/'>LinkedIn</a><a href = 'https://choir.netlify.app/'>Website</a>
+<a target="_blank" href = 'https://twitter.com/choir241'>Twitter</a><a target="_blank" href = 'https://www.linkedin.com/in/richard-choir/'>LinkedIn</a><a target="_blank" href = 'https://choir.netlify.app/'>Website</a>
