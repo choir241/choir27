@@ -11,6 +11,6 @@
 	<img src = 'https://user-images.githubusercontent.com/66279068/165834059-1e6bf655-3437-49ce-a772-6660b9dad96c.png' alt = 'LinkedIn button'</a>
 <a href = 'https://choir.netlify.app/' target="_blank">
 	<img src = 'https://user-images.githubusercontent.com/66279068/165834113-2f19fc33-99c4-4f18-b404-054de03c4a9e.png' alt = 'Website button'></a>
-<a href = '#' target="_blank">
-	<img src = 'https://user-images.githubusercontent.com/66279068/165834439-73b74b3a-8793-481b-a22b-5d62ff1a7bd4.png' alt = 'Resume Button'>
+<!-- <a href = '#' target="_blank">
+	<img src = 'https://user-images.githubusercontent.com/66279068/165834439-73b74b3a-8793-481b-a22b-5d62ff1a7bd4.png' alt = 'Resume Button'> -->
  </section>
