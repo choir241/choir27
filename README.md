@@ -14,3 +14,6 @@
 <!-- <a href = '#' target="_blank">
 	<img src = 'https://user-images.githubusercontent.com/66279068/165834439-73b74b3a-8793-481b-a22b-5d62ff1a7bd4.png' alt = 'Resume Button'> -->
  </section>
+
+	
+<a href = 'https://github.com/choir27/Mobile-Website/blob/master/README.md' target = '_blank'><img src = 'https://user-images.githubusercontent.com/66279068/166521494-21334f50-01d8-4ef0-8184-9f5d122a0895.PNG'></a>
