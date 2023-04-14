@@ -26,7 +26,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <ul>
 <li>React</li>
+   -HTML/EJS/Handlebars
+   -JS
+   -CSS
 <li>Node.js</li>
+   -Express.js
 <li>Git</li> 
 </ul>
 
