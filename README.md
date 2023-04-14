@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A software engineer passionate about learning</h3>
 
-- 🔭 I’m currently working on [Illya Site](https://github.com/choir27/Illya-Site-React)
+- 🔭 I’m currently working on [Kpop Wired](https://github.com/choir27/Kpop-Wired)
 
 - 🌱 I’m currently learning **React**
 
