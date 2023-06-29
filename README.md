@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A software engineer passionate about learning</h3>
 
-- 🔭 I’m currently working on [Kpop Wired](https://github.com/choir27/Kpop-Wired)
+- 🔭 I’m currently working on [Car-App](https://github.com/choir27/Car-App)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://choir.netlify.app/](https://choir.netlify.app/)
 
 - 📫 How to reach me **richardchoi54@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](https://github.com/choir27/choir27/files/10016228/Resume.pdf)
-
-- ⚡ Fun fact **I like to draw on the side**
+- 📄 Know about my experiences [Richard_Choi_Resume.pdf](https://github.com/choir27/choir27/files/11906080/01_Richard_Choi_Resume.pdf)
 
 <img src = "https://user-images.githubusercontent.com/66279068/165830757-c89a51fe-17b4-4aef-a102-5828f8e4b1a9.png" alt = "choir Logo" width = "100%">
 
@@ -25,13 +23,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
+<li>TypeScript</li>
 <li>React</li>
    -HTML/EJS/Handlebars <br>
    -JS <br>
    -CSS
 <li>Node.js</li>
    -Express.js
-<li>Git</li> 
+<li>MongoDB</li>
+<li>AppWrite</li>
+<li>Git</li>
 </ul>
 
 
