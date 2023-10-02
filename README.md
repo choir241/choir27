@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A software engineer passionate about learning</h3>
 
-- 🔭 I’m currently working on [AutoAligners](https://github.com/choir27/AutoAligners))
+- 🔭 I’m currently working on [AutoAligners](https://github.com/choir27/AutoAligners)
 
 - 🌱 I’m currently learning **TypeScript**
 
