@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A software engineer passionate about learning</h3>
 
-- 🔭 I’m currently working on [AutoAligners](https://github.com/choir27/AutoAligners)
+- 🔭 I’m currently working on [Priconnect](https://github.com/choir27/Priconnect)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next**
 
 - 👨‍💻 All of my projects are available at [https://choir.netlify.app/](https://choir.netlify.app/)
 
 - 📫 How to reach me **richardchoi54@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](https://github.com/choir27/choir27/files/12579196/01_Richard_Choi_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/choir27/choir27/files/13639379/01_Richard_Choi_Resume.pdf)
 
 <img src = "https://github.com/choir27/choir27/assets/66279068/d6e2a62e-845a-4293-af7c-528c04e606c0" alt = "choir Logo" width = "100%">
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
+<li>Next</li>
 <li>TypeScript</li>
 <li>React</li>
    -HTML/EJS/Handlebars <br>
@@ -30,6 +30,7 @@
    -CSS
 <li>Node.js</li>
    -Express.js
+<li>Zustand</li>
 <li>MongoDB</li>
 <li>AppWrite</li>
 <li>Git</li>
