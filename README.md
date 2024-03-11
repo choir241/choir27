@@ -22,6 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <ul>
 <li>Next</li>
 <li>TypeScript</li>
@@ -37,6 +38,8 @@
 <li>AppWrite</li>
 <li>Git</li>
 </ul>
+
+![Screenshot 2024-03-11 171337](https://github.com/choir27/choir27/assets/66279068/c9f6e0e4-bbe2-4020-9d52-f4df12b16656)
 
 
 
