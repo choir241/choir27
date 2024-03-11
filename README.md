@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A software engineer passionate about learning</h3>
 
-- 🔭 I’m currently working on https://github.com/choir27/BeTheLig9ht-Foundation
+- 🔭 I’m currently working on https://github.com/choir27/BeTheLig9ht-Foundation and https://github.com/choir27/2_Week_Project
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **PHP**
 
 - 👨‍💻 All of my projects are available at [https://choir.netlify.app/](https://choir.netlify.app/)
 
