@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on https://github.com/choir27/BeTheLig9ht-Foundation
   
-- 🌱 I’m currently learning **Python** and **PHP**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://choir.netlify.app/](https://choir.netlify.app/)
 
