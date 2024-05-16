@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A software engineer passionate about learning</h3>
 
-- 🔭 I’m currently working on https://github.com/choir27/BeTheLig9ht-Foundation
+- 🔭 I’m currently working on [Gridiron Survivor](https://github.com/LetsGetTechnical/gridiron-survivor)
   
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Unit and E2E testing**
 
 - 👨‍💻 All of my projects are available at [https://choir.netlify.app/](https://choir.netlify.app/)
 
@@ -21,7 +21,7 @@
 <a href="https://instagram.com/225kh_drw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="225kh_drw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks, Libraries, and Tools:</h3>
 
 <ul>
 <li>Next</li>
