@@ -1,26 +1,16 @@
 <h1 align="center">Hi I'm Richard!</h1>
 <h3 align="center">A software engineer passionate about learning</h3>
 
-[![Follow @choir241](https://img.shields.io/badge/-Follow%20@choir241-blue?logo=twitter&style=flat-square)](https://twitter.com/intent/tweet?text=Follow%20%40choir241)
-
-- 🔭 I’m currently working on [Gridiron Survivor](https://github.com/LetsGetTechnical/gridiron-survivor)
+[![Follow @choir241](https://img.shields.io/badge/-Follow%20@choir241-blue?logo=twitter&style=flat-square)](https://x.com/home)
+[![Follow richard-choir](https://img.shields.io/badge/-Follow%20richardchoir-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/richard-choir/)
   
-- 🌱 I’m currently learning **Unit and E2E testing**
-
 - 👨‍💻 All of my projects are available at [https://choir.netlify.app/](https://choir.netlify.app/)
 
 - 📫 How to reach me **richardchoi54@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Gw7hqvLquVzKwg7fD3sfF1NGvoG0dFRzTI5rR-yEPkw/edit#heading=h.tuknjgoukcwn)
   
-
 <img src = "https://github.com/choir27/choir27/assets/66279068/9b85790e-2b86-428c-9ff2-fcc859fe6494" alt = "choir Logo" width = "100%">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/richard-choir/" target="blank"><img align="center" src="https://github.com/choir27/choir27/assets/66279068/7058208d-4fd6-4bf5-924c-e02158fd5ebe" alt="richard choi" height="30" width="40" /></a>
-<a href="https://instagram.com/225kh_drw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="225kh_drw" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages, Frameworks, Libraries, and Tools:</h3>
 
