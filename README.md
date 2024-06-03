@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A software engineer passionate about learning</h3>
 
+[![Follow @choir241](https://img.shields.io/badge/-Follow%20@choir241-blue?logo=twitter&style=flat-square)](https://twitter.com/intent/tweet?text=Follow%20%40choir241)
+
 - 🔭 I’m currently working on [Gridiron Survivor](https://github.com/LetsGetTechnical/gridiron-survivor)
   
 - 🌱 I’m currently learning **Unit and E2E testing**
